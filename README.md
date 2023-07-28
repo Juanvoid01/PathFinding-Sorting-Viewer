@@ -5,9 +5,9 @@ Visualization tool for sorting algorithms.
 
 ### Table of Contents
 - [Introduction](#introduction)
-- [What I learnt](#What I learnt)
-- [PathFinding](#PathFinding)
-- [Sorting](#Sorting)
+- [What I learnt](#what I learnt)
+- [PathFinding](#pathFinding)
+- [Sorting](#sorting)
 - [How to use it](#how-to-use-it)
 - [References](#references)
 
