@@ -5,8 +5,9 @@ Visualization tool for sorting algorithms.
 
 ### Table of Contents
 - [Introduction](#introduction)
-  - [PathFinding](#PathFinding)
-  - [Sorting](#Sorting)
+- [What I learnt](#What I learnt)
+- [PathFinding](#PathFinding)
+- [Sorting](#Sorting)
 - [How to use it](#how-to-use-it)
 - [References](#references)
 
@@ -16,6 +17,12 @@ A software that generates a simulation of creation and resolution of mazes.
 A software that generates an array sort simulation
 
 
+### What I learnt
+
+* C++ Standard Library
+* Data Structures
+* Sorting algorithms
+* PathFinding algorithms
 
 #### PathFinding
 
